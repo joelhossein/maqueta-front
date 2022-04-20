@@ -1,0 +1,72 @@
+#foto-perfil img {
+  width: 10%;
+  border-radius: 50%;
+  margin-top: -6%;
+  margin-left: 2%;
+}
+
+.personal-data {
+  display: inline;
+}
+
+.desc {
+  margin-bottom: 10px;
+}
+
+.card {
+  margin: 20px;
+}
+
+.logo {
+  margin: auto;
+}
+
+.img-exp {
+  width: 2.5em;
+}
+
+.progress-bar {
+  background-color: green;
+}
+
+.proyectos {
+  margin-left: 3%;
+}
+
+.proyectos h3 {
+  color: #256e96;
+}
+
+.proyectos a {
+  text-decoration: none;
+}
+
+.editar-foto-perfil {
+  position: relative;
+  margin-left: 12%;
+  margin-top: -2%;
+}
+
+.edit-btn {
+  margin-left: 94%;
+  margin-top: 1%;
+  position: absolute;
+}
+
+i {
+  color: black;
+}
+
+#tarjeta {
+  border-radius: 1.25rem;
+}
+
+#experiencia {
+  border: none;
+  padding: 10px;
+}
+
+#banner {
+  border-top-left-radius: 1.25rem;
+  border-top-right-radius: 1.25rem;
+}
